@@ -4,8 +4,6 @@ A tiny command-line project that prints a sample semester result. It uses the np
 
 ## Run it
 
-After the package is published on npm:
-
 ```bash
 npm install
 npm start
@@ -13,6 +11,7 @@ npm start
 
 ## Package used
 
-The project imports `sem3-marks-tools-aditya` in `index.js`.
+The project imports `sem3-marks-tools-aditya@1.0.0` in `index.js` and locks that published version in `package-lock.json`.
 
-Package repository: https://github.com/AdityaDhinakaran/sem3-marks-tools
+- npm package: https://www.npmjs.com/package/sem3-marks-tools-aditya
+- Package GitHub repo: https://github.com/AdityaDhinakaran/sem3-marks-tools
