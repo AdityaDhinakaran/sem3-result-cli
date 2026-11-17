@@ -1,0 +1,14 @@
+{
+  "name": "sem3-result-cli",
+  "version": "1.0.0",
+  "description": "A simple semester marks report using sem3-marks-tools-aditya",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "sem3-marks-tools-aditya": "1.0.0"
+  },
+  "license": "MIT"
+}
